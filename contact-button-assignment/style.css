@@ -1,0 +1,33 @@
+/*
+MY COLOR PALETTE
+Color 1 - #CB752A
+Color 2 - #936273
+Color 3 - #B9E9F4
+Color 4 - #0A0A0A
+Color 5 - #FBB1BA
+*/
+body {
+    background-color:#CB752A;
+    
+}
+button{
+    background-color: #B9E9F4; 
+    color:#0A0A0A; 
+    font-family: 'Poppins', sans-serif;
+    
+}
+button:hover{
+    background-color: #FBB1BA;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 200px;
+    text-transform: uppercase;
+    
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px; 
+    
+}
+
