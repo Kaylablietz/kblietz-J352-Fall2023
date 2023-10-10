@@ -36,14 +36,16 @@ p{
 margin:0px 200px 0px 200px;
 font-family: 'Montserrat',sans-serif;
 float: left; 
-border: none; 
+border: none;
 }
 
 button{
 text-align: center; 
 background-color:#22351B; 
-border-radius:20px;
-color:#9D5F3B;
+border-radius:10px;
+color:white;
+padding: 10px 20px 10px 20px;
+
 
 }
 button:hover{
@@ -52,8 +54,5 @@ background-color:burlywood;
 }
 #button-container{
 text-align: center; 
-background-color:#22351B; 
-border-radius:20px;
-color:#9D5F3B;
     
 }
