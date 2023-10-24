@@ -1,15 +1,17 @@
 .img{
     width:100%;
+
+}
+
+#headshot {
     width:300px;
     padding:0px;
     margin:20px 0px 20px 40px;
     border-radius: 500px;
 }
-    
-}
+
 .body{
     background-color: #FFC0CB; 
-    font-family: font-family: 'Playpen Sans', cursive;
 }
 
 #topper{
@@ -19,7 +21,12 @@
     justify-content: center;
 
 }
-
+#Picture{
+    width:300px;
+    padding:0px;
+    margin:20px 0px 20px 40px;
+    border-radius: 500px;  
+}
 #button {
     background-color:#D11616;
     border:0px;
@@ -31,13 +38,13 @@
 }
 #footer{
     background-color: #D44848; 
-    
+    position: fixed; 
     
   
   
 }
 #footer-text{
-    justify-content: left; 
+    justify-content: 
 }
 .nav{
     background-color: #F6B9B9; 
