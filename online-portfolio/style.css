@@ -4,7 +4,8 @@ img{
 
 #topper{
     font-family: 'Handlee', cursive;
-    font-size: 90px
+    font-size: 90px;
+    background-color: #E18484; 
 
 }
 #Picture{
@@ -13,3 +14,18 @@ img{
     margin:20px 0px 20px 40px;
     border-radius: 500px;  
 }
+#button {
+    background-color:#D11616;
+    border:0px;
+    border-radius: 10px;
+    padding:10px 30px 10px 30px;
+    text-transform:uppercase;
+    margin:10px;
+}
+#footer{
+    background-color: #D44848; 
+}
+
+
+
+
