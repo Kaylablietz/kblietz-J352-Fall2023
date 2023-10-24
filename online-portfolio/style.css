@@ -4,12 +4,12 @@ img{
 
 #topper{
     font-family: 'Handlee', cursive;
-    font-size: 90px;
+    font-size: 90px
+
 }
 #Picture{
     width:300px;
     padding:0px;
     margin:20px 0px 20px 40px;
-    border-radius: 500px;
-    
+    border-radius: 500px;  
 }
