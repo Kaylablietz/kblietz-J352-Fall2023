@@ -10,9 +10,7 @@
     border-radius: 500px;
 }
 
-.body{
-    background-color: #FFC0CB; 
-}
+
 
 #topper{
     font-family: 'Handlee', cursive;
@@ -43,8 +41,7 @@
   
   
 }
-#footer-text{
-    justify-content: 
+
 }
 .nav{
     background-color: #F6B9B9; 
@@ -55,9 +52,6 @@
 .nav a:hover {
     color: red; 
 }
-
-
-
 
 
 
