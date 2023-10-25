@@ -1,9 +1,13 @@
 
+@media {
 
+
+
+@media (min-width: 576px) {
 
 .img{
     width:100%;
-
+    }
 }
 
 #headshot {
@@ -12,10 +16,12 @@
     margin:20px 0px 20px 40px;
     border-radius: 500px;
 }
+@media (min-width: 576px) {
+
 body {
   background-color: #FFC0CB;
   font-family: 'Playpen Sans', cursive;
-    
+    }
 }
 
 
@@ -24,6 +30,7 @@ body {
     font-size: 80px;
     background-color: #E18484; 
     justify-content: center;
+    text-transform: uppercase;
 
 }
 #Picture{
@@ -45,6 +52,10 @@ body {
     color:white;
     text-decoration: none;
 }
+p{
+margin: 0px 0px 10px 15px;
+    
+}
 #footer{
     background-color: #D44848; 
     color: black;
@@ -52,6 +63,9 @@ body {
   
   
 }
+    h3{
+        margin: 0px 0px 0px 10px; 
+    }
 
 }
 .nav{
@@ -65,7 +79,8 @@ body {
 .nav a:hover {
     color: red; 
 }
-
+    
+}
 
 
 
