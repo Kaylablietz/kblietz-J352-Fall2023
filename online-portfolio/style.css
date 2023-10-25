@@ -1,3 +1,6 @@
+
+
+
 .img{
     width:100%;
 
@@ -36,7 +39,7 @@ body {
     padding:10px 30px 10px 30px;
     text-transform:uppercase;
     margin:10px;
-    font-size: 30px; 
+    font-size: 20px; 
 }
 #button a {
     color:white;
@@ -44,7 +47,7 @@ body {
 }
 #footer{
     background-color: #D44848; 
-    position: fixed; 
+    color: black;
     
   
   
@@ -55,7 +58,9 @@ body {
     background-color: #F6B9B9; 
 }
 .nav a {
-    
+     font-family:montserrat, sans-serif;
+    color:black;
+    justify-content: center;
 }
 .nav a:hover {
     color: red; 
