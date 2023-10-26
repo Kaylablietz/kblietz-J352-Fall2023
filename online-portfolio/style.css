@@ -46,13 +46,15 @@ body {
     color:white;
     text-decoration: none;
 }
-p{
+h3{
 margin: 0px 0px 10px 15px;
     
 }
-section header{
-    margin: 0px 0px 0px 15px; 
+p{
+margin: 10px 0px 10px 15px;
+    
 }
+
 #footer{
     background-color: #D44848; 
     color: black;
@@ -62,7 +64,7 @@ section header{
 }
 
 .nav{
-    background-color: #F6B9B9; 
+    background-color: lightcoral; 
 }
 .nav a {
      font-family:montserrat, sans-serif;
