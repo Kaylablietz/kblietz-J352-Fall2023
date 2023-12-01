@@ -4,6 +4,7 @@ img{
 }
 #text{
     width:45%; 
+    font-family: 'Nunito' , sans-serif; 
 }
 #book{
     width: 50%; 
@@ -12,6 +13,14 @@ img{
 #mother{
     width: 50%; 
     margin: auto; 
+}
+body{
+    font-family: 'Nunito', sans-serif;
+
+}
+#topper{
+    font-family: 'Poppins', sans-serif;
+    
 }
 
    
