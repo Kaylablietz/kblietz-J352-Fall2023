@@ -35,6 +35,12 @@ margin:0px 0px 0px 10px;
     color: white; 
     font-weight: bold; 
 }
+#footer{
+    position: fixed; 
+    bottom: 0px; 
+    background-color: red; 
+    width: 100%; 
+}
 
    
     
