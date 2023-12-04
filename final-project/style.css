@@ -23,7 +23,9 @@ body{
 #topper{
     font-family: 'Poppins', sans-serif;
   background-color:#c27ba0; 
-color: white; 
+font-weight: bold;
+color: black; 
+
 }
 #sources{
 margin:0px 0px 0px 10px; 
@@ -31,6 +33,7 @@ margin:0px 0px 0px 10px;
 }
 #captions{
     color: white; 
+    font-weight: bold; 
 }
 
    
