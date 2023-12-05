@@ -42,6 +42,7 @@ margin:0px 0px 0px 10px;
 #note{
     width: 100%; 
     font-style: italic; 
+    color: white;
 }
 .pullquote{
      padding:30px 10px 10px 10px;
@@ -53,7 +54,6 @@ margin:0px 0px 0px 10px;
 .quotemark{
     font-size:100px;
         font-weight:bold;
-        
         line-height: 60px; 
 }
 .leftquotemark{
