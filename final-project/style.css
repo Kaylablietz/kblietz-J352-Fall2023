@@ -1,9 +1,10 @@
-img{
+@media{
+    img{
     width: 70%; 
     margin: auto; 
 }
-#text{
-    width:45%; 
+.text{
+    width:60%; 
     font-family: 'Nunito' , sans-serif;
     color: white; 
 }
@@ -20,6 +21,7 @@ body{
     background-color: #D62828; 
 
 }
+}
 #topper{
     font-family: 'Poppins', sans-serif;
   background-color:#c27ba0; 
@@ -31,16 +33,19 @@ color: black;
 margin:0px 0px 0px 10px; 
     
 }
-#captions{
+.captions{
     color: white; 
     font-weight: bold; 
 }
-#footer{
-    position: fixed; 
-    bottom: 0px; 
-    background-color: red; 
+#note{
     width: 100%; 
+    font-style: italic; 
 }
+.pullquote{
+    background-color: tan; 
+}
+
+
 
    
     
