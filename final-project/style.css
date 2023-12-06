@@ -1,4 +1,4 @@
-@media{
+
     img{
     width: 70%; 
     margin: auto; 
@@ -20,21 +20,27 @@
 }
 body{
     font-family: 'Nunito', sans-serif;
-    background-color: #D62828; 
+    background-color: #D62828;
 
-}
+
 }
 #topper{
     font-family: 'Poppins', sans-serif;
   background-color:#c27ba0; 
 font-weight: bold;
 color: black; 
+margin: 15px 15px 15px 15px; 
 
 }
-#sources{
+
+
+
+
+.sources{
 margin:0px 0px 0px 10px; 
     
 }
+
 .captions{
     color: white; 
     font-weight: bold; 
@@ -43,6 +49,10 @@ margin:0px 0px 0px 10px;
     width: 100%; 
     font-style: italic; 
     color: white;
+}
+#jail{
+    color:white; 
+    font-weight: bold; 
 }
 .pullquote{
      padding:30px 10px 10px 10px;
