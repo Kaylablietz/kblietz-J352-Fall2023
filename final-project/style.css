@@ -33,7 +33,10 @@ margin: 15px 15px 15px 15px;
 width: 100%;
 
 }
-}
+    .info{
+        color: white; 
+    }
+
 
 
 .sources{
@@ -54,7 +57,7 @@ margin:0px 0px 0px 10px;
     color:white; 
     font-weight: bold; 
 }
-@media (min-width:576px){
+
 .pullquote{
      padding:30px 10px 10px 10px;
     margin:30px 0px 30px 0px;
@@ -74,7 +77,7 @@ margin:0px 0px 0px 10px;
     float: right; 
     padding-top: 30px;
 }
-} 
+}
 
 
 
