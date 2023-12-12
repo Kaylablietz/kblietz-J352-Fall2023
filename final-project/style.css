@@ -7,10 +7,12 @@
     width:60%; 
     font-family: 'Nunito' , sans-serif;
     color: white; 
+    margin: auto; 
 }
 #book{
-    width: 50%; 
+    width: 60%; 
     margin: auto; 
+    
 }
 #mother{
     width: 50%; 
