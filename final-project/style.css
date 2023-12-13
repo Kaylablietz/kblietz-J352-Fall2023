@@ -1,43 +1,18 @@
 @media{
     img{
-    width: 70%; 
-    margin: auto; 
-}
-.text{
-    width:60%; 
-    font-family: 'Nunito' , sans-serif;
-    color: white; 
-    margin: auto; 
-}
-#book{
-    width: 60%; 
-    margin: auto; 
     
+width: 100%; 
 }
-#mother{
-    width: 50%; 
-    margin: auto; 
-    font-weight: bold; 
-    color: white; 
-}
-body{
-    font-family: 'Nunito', sans-serif;
-    background-color: #D62828;
 
-
-}
-#topper{
-    font-family: 'Poppins', sans-serif;
-   
-font-weight: bold;
-color: black; 
-margin: 15px 15px 15px 15px; 
-width: 100%;
-
-}
-    .info{
-        color: white; 
+.content {
+    width:80%;
+    margin:auto;
+    font-family: 'Nunito' , sans-serif;
+    color: black; 
+    background-color: white; 
     }
+
+ 
     
 
 
@@ -48,7 +23,7 @@ margin:0px 0px 0px 10px;
 }
 
 .captions{
-    color: white; 
+    color: black; 
     font-weight: bold; 
 }
 #note{
@@ -56,17 +31,14 @@ margin:0px 0px 0px 10px;
     font-style: italic; 
     color: white;
 }
-#jail{
-    color:white; 
-    font-weight: bold; 
-}
+
     
 .pullquote{
      padding:30px 10px 10px 10px;
     margin:30px 0px 30px 0px;
-   color: #3EB489; 
+   color:black; 
     width: 60%; 
-  border:5px solid #0000FF; 
+  border:5px solid pink; 
 }
 .quotemark{
     font-size:100px;
