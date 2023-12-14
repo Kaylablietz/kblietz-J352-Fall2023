@@ -1,4 +1,4 @@
-@media{
+
     img{
     
 width: 100%; 
@@ -14,7 +14,10 @@ width: 100%;
 
  
     
-
+    #topper{
+        margin: auto; 
+        font-weight: bold; 
+    }
 
 
 .sources{
@@ -24,13 +27,20 @@ margin:0px 0px 0px 10px;
 
 .captions{
     color: black; 
-    font-weight: bold; 
+     
+    padding-top: 10px; 
 }
     #note{
         color: black; 
         font-style: italic; 
         margin: auto; 
+        padding-bottom: 10px; 
     }
+#information{
+    font-style: italic; 
+    margin: auto; 
+    padding-bottom: 10px; 
+}
 
     
 .pullquote{
@@ -54,7 +64,7 @@ margin:0px 0px 0px 10px;
 }
 
 
-}
+
 
 
 
