@@ -26,11 +26,11 @@ margin:0px 0px 0px 10px;
     color: black; 
     font-weight: bold; 
 }
-#note{
-    width: 100%; 
-    font-style: italic; 
-    color: white;
-}
+    #note{
+        color: black; 
+        font-style: italic; 
+        margin: auto; 
+    }
 
     
 .pullquote{
